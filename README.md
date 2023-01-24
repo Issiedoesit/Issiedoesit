@@ -4,12 +4,12 @@ It's Ekwemuka Isioma Jessica, Frontend developer and web usability enthusiast.
 Welcome and feel free to have a look around here. 😄
 
 
-🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 - ReactJs Projects
 - Javascript / Jquery Projects
 - Tailwind CSS and Vanilla CSS projects
 
-## Skills :computer:
+## :computer: Skills 
 - HTML :hammer:
 - Tailwind CSS :art:
 - Vanilla CSS :nail_care:
@@ -23,7 +23,7 @@ Welcome and feel free to have a look around here. 😄
 - [Project 3 Name] :art:
 -->
 
-## Contact Me :email:
+## :bust_in_silhouette: Contact Me 
 - :e-mail: Email: isyekwe@gmail.com
 - LinkedIn: [Ekwemuka Isioma on LinkedIn](https://www.linkedin.com/in/ekwemuka-isioma-bab79a138/)
 - Twitter: [Issie_TBH on Twitter](https://twitter.com/Issie_TBH)
