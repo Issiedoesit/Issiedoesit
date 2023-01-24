@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+It's Ekwemuka Isioma Jessica, Frontend developer and web usability enthusiast. 
+Welcome and feel free to have a look around here. 😄
+
+
+🔭 I’m currently working on ...
+- ReactJs Projects
+- Javascript / Jquery Projects
+- Tailwind CSS and Vanilla CSS projects
+
 <!--
 **Issiedoesit/Issiedoesit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
