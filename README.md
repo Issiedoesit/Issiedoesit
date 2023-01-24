@@ -24,7 +24,7 @@ Welcome and feel free to have a look around here. 😄
 -->
 
 ## Contact Me :email:
-- :e-mail: Email: [isyekwe@gmail.com]
+- :e-mail: Email: isyekwe@gmail.com
 - LinkedIn: [Ekwemuka Isioma on LinkedIn](https://www.linkedin.com/in/ekwemuka-isioma-bab79a138/)
 - Twitter: [Issie_TBH on Twitter](https://twitter.com/Issie_TBH)
 
